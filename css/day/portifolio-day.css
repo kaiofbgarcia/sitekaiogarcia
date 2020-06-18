@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://www.designerd.com.br/wp-content/uploads/2018/07/download.png);
+    background-size: 100vw 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .site-subtitle,
+  .site-title {
+    color: rgb(0, 0, 0);
+    font-family: Times;  
+    text-align: center;
+  }
+  .site-subtitle { 
+    font-style: italic;
+    text-decoration: underline;
+  }
+  .subtitle{
+    font-family: Times; 
+    text-decoration: underline;
+    margin-left: 50px;
+  }
+  blockquote {
+    font-weight: 150;
+    font-style: italic;
+    color: black;
+    text-align: center;
+  }
